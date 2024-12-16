@@ -2,7 +2,7 @@
 SpringBoot Aws RDS 연동 테스트
 
 
-Spring Web/n
+Spring Web
 Lombok
 Spring DevTools
 Spring Data JPA
