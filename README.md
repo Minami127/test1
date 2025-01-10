@@ -10,4 +10,6 @@ MySQL Driver 사용
 
 Putty + Amazon Linux
 
-https://docs.google.com/presentation/d/19fgX-kXeQqiNJMaA9mZVIdkj551vlOQTQkuWJFxP50Y/edit#slide=id.p
+GitHub Desktop
+
+https://docs.google.com/presentation/d/19fgX-kXeQqiNJMaA9mZVIdkj551vlOQTQkuWJFxP50Y/edit#slide=id.g32484b12344_0_61
