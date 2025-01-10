@@ -1,6 +1,4 @@
-# test1
-SpringBoot Aws RDS 연동 + EC2 배포 테스트
-
+# GitHub에 프로젝트 올리기 + SpringBoot Aws RDS 연동 + EC2 배포 테스트
 
 Spring Web
 Lombok
