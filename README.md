@@ -10,4 +10,4 @@ Putty + Amazon Linux
 
 GitHub Desktop
 
-https://docs.google.com/presentation/d/19fgX-kXeQqiNJMaA9mZVIdkj551vlOQTQkuWJFxP50Y/edit#slide=id.g32484b12344_0_61
+https://docs.google.com/presentation/d/19fgX-kXeQqiNJMaA9mZVIdkj551vlOQTQkuWJFxP50Y/edit#slide=id.p
